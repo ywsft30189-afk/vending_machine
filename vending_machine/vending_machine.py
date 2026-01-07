@@ -9,7 +9,7 @@ products = {
     3: ["Chocolate", 2.0, 4],    # Product number 3
     4: ["Water", 0.5, 10],       # Product number 4
     5: ["Orangeu_juice", 2.5, 6]  # Product number 5
-    6: ["indome", 2.0, 7]         # Product number 6
+    6: ["indomi", 2.0, 7]         # Product number 6
 }
 
 # Function to display all available products
